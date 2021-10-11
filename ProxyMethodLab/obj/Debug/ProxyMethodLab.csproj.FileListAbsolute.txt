@@ -1,0 +1,9 @@
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\bin\Debug\ProxyMethodLab.exe.config
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\bin\Debug\ProxyMethodLab.exe
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\bin\Debug\ProxyMethodLab.pdb
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\bin\Debug\System.Drawing.Common.dll
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\obj\Debug\ProxyMethodLab.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\obj\Debug\ProxyMethodLab.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\obj\Debug\ProxyMethodLab.csproj.CopyComplete
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\obj\Debug\ProxyMethodLab.exe
+C:\Users\Roman\Desktop\ProxyMethodLab3\ProxyMethodLab\obj\Debug\ProxyMethodLab.pdb
